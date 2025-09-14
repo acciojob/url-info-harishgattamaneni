@@ -1,2 +1,2 @@
 let url=location.href
-console.log(url.length)
+alert("The length of the URL is: " + url.length);
